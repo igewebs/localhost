@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"GithubGistExplorer.explorer.subscriptionAscending": true,
+		"GithubGistExplorer.explorer.gistAscending": true,
+		"GithubGistExplorer.github.token": "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",
+		"GithubGistExplorer.github.username": "igewebs",
+		"files.autoGuessEncoding": true,
+		"files.insertFinalNewline": true,
+		"workbench.colorCustomizations": {}
+	}
+}
